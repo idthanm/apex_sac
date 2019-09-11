@@ -1,12 +1,146 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c12dd57f-428e-4f5c-b65c-b7f7dbae700c" name="Default" comment="" />
+    <list default="true" id="c12dd57f-428e-4f5c-b65c-b7f7dbae700c" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/data/method_0/model/Q1_0.pkl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/method_0/model/Q1_10000.pkl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/method_0/model/Q1_20000.pkl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/method_0/model/policy_10000.pkl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/method_0/model/policy_20000.pkl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/method_0/result/iteration.npy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/method_0/result/reward.npy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/method_1/model/Q1_0.pkl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/method_1/model/Q1_10000.pkl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/method_1/model/Q1_20000.pkl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/method_1/model/Q2_0.pkl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/method_1/model/Q2_10000.pkl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/method_1/model/Q2_20000.pkl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/method_1/model/policy_0.pkl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/method_1/model/policy_1000.pkl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/method_1/model/policy_10000.pkl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/method_1/model/policy_2000.pkl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/method_1/model/policy_20000.pkl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/method_1/model/policy_3000.pkl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/method_1/model/policy_4000.pkl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/method_1/result/iteration.npy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/method_1/result/reward.npy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/method_2/model/Q1_0.pkl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/method_2/model/Q1_10000.pkl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/method_2/model/Q1_100000.pkl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/method_2/model/Q1_110000.pkl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/method_2/model/Q1_120000.pkl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/method_2/model/Q1_130000.pkl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/method_2/model/Q1_140000.pkl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/method_2/model/Q1_150000.pkl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/method_2/model/Q1_160000.pkl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/method_2/model/Q1_170000.pkl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/method_2/model/Q1_180000.pkl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/method_2/model/Q1_190000.pkl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/method_2/model/Q1_20000.pkl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/method_2/model/Q1_200000.pkl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/method_2/model/Q1_210000.pkl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/method_2/model/Q1_220000.pkl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/method_2/model/Q1_230000.pkl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/method_2/model/Q1_240000.pkl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/method_2/model/Q1_250000.pkl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/method_2/model/Q1_260000.pkl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/method_2/model/Q1_270000.pkl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/method_2/model/Q1_280000.pkl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/method_2/model/Q1_290000.pkl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/method_2/model/Q1_30000.pkl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/method_2/model/Q1_300000.pkl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/method_2/model/Q1_310000.pkl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/method_2/model/Q1_320000.pkl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/method_2/model/Q1_330000.pkl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/method_2/model/Q1_340000.pkl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/method_2/model/Q1_350000.pkl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/method_2/model/Q1_360000.pkl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/method_2/model/Q1_370000.pkl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/method_2/model/Q1_380000.pkl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/method_2/model/Q1_390000.pkl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/method_2/model/Q1_40000.pkl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/method_2/model/Q1_400000.pkl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/method_2/model/Q1_410000.pkl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/method_2/model/Q1_420000.pkl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/method_2/model/Q1_430000.pkl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/method_2/model/Q1_50000.pkl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/method_2/model/Q1_60000.pkl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/method_2/model/Q1_70000.pkl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/method_2/model/Q1_80000.pkl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/method_2/model/Q1_90000.pkl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/method_2/model/policy_0.pkl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/method_2/model/policy_1000.pkl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/method_2/model/policy_10000.pkl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/method_2/model/policy_100000.pkl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/method_2/model/policy_110000.pkl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/method_2/model/policy_120000.pkl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/method_2/model/policy_130000.pkl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/method_2/model/policy_140000.pkl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/method_2/model/policy_150000.pkl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/method_2/model/policy_160000.pkl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/method_2/model/policy_170000.pkl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/method_2/model/policy_180000.pkl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/method_2/model/policy_190000.pkl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/method_2/model/policy_2000.pkl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/method_2/model/policy_20000.pkl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/method_2/model/policy_200000.pkl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/method_2/model/policy_210000.pkl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/method_2/model/policy_220000.pkl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/method_2/model/policy_230000.pkl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/method_2/model/policy_240000.pkl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/method_2/model/policy_250000.pkl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/method_2/model/policy_260000.pkl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/method_2/model/policy_270000.pkl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/method_2/model/policy_280000.pkl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/method_2/model/policy_290000.pkl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/method_2/model/policy_3000.pkl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/method_2/model/policy_30000.pkl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/method_2/model/policy_300000.pkl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/method_2/model/policy_310000.pkl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/method_2/model/policy_320000.pkl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/method_2/model/policy_330000.pkl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/method_2/model/policy_340000.pkl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/method_2/model/policy_350000.pkl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/method_2/model/policy_360000.pkl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/method_2/model/policy_370000.pkl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/method_2/model/policy_380000.pkl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/method_2/model/policy_390000.pkl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/method_2/model/policy_4000.pkl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/method_2/model/policy_40000.pkl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/method_2/model/policy_400000.pkl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/method_2/model/policy_410000.pkl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/method_2/model/policy_420000.pkl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/method_2/model/policy_430000.pkl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/method_2/model/policy_50000.pkl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/method_2/model/policy_60000.pkl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/method_2/model/policy_70000.pkl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/method_2/model/policy_80000.pkl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/method_2/model/policy_90000.pkl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/method_2/result/iteration.npy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/method_2/result/reward.npy" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Simulation.py" beforeDir="false" afterPath="$PROJECT_DIR$/Simulation.py" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -16,7 +150,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1OzorJOsx8mm3KcPcsWGfxFBf8C" />
   <component name="ProjectInspectionProfilesVisibleTreeState">
@@ -40,11 +174,12 @@
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="SearchEverywhereHistoryKey" value="&#9;FILE&#9;file:///Users/djl/Documents/code/multi_test/Actor.py&#10;:&#9;null&#9;null" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
-    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -67,50 +202,6 @@
     </option>
   </component>
   <component name="RunManager" selected="Python.Main">
-    <configuration name="Actor" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="multi_test" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Actor.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="Learner" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="multi_test" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Learner.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <configuration name="Main" type="PythonConfigurationType" factoryName="Python">
       <module name="multi_test" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -134,7 +225,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Simulation" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="blackjack" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="multi_test" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -142,12 +233,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="WORKING_DIRECTORY" value="$USER_HOME$/Software/anaconda3/envs/pytorch/lib/python3.7/site-packages/gym/envs/toy_text" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Simulation.py" />
+      <option name="SCRIPT_NAME" value="$USER_HOME$/Software/anaconda3/envs/pytorch/lib/python3.7/site-packages/gym/envs/toy_text/blackjack.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -156,7 +247,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Test" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="cube_crash" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="multi_test" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -164,12 +255,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="WORKING_DIRECTORY" value="$USER_HOME$/Software/anaconda3/envs/pytorch/lib/python3.7/site-packages/gym/envs/unittest" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Test.py" />
+      <option name="SCRIPT_NAME" value="$USER_HOME$/Software/anaconda3/envs/pytorch/lib/python3.7/site-packages/gym/envs/unittest/cube_crash.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -178,7 +269,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="plot" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="discrete" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="multi_test" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -186,12 +277,56 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="WORKING_DIRECTORY" value="$USER_HOME$/Software/anaconda3/envs/pytorch/lib/python3.7/site-packages/gym/envs/toy_text" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/plot.py" />
+      <option name="SCRIPT_NAME" value="$USER_HOME$/Software/anaconda3/envs/pytorch/lib/python3.7/site-packages/gym/envs/toy_text/discrete.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="guessing_game" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="multi_test" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$USER_HOME$/Software/anaconda3/envs/pytorch/lib/python3.7/site-packages/gym/envs/toy_text" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$USER_HOME$/Software/anaconda3/envs/pytorch/lib/python3.7/site-packages/gym/envs/toy_text/guessing_game.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="pendulum" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="multi_test" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$USER_HOME$/Software/anaconda3/envs/pytorch/lib/python3.7/site-packages/gym/envs/classic_control" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$USER_HOME$/Software/anaconda3/envs/pytorch/lib/python3.7/site-packages/gym/envs/classic_control/pendulum.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -202,19 +337,19 @@
     </configuration>
     <list>
       <item itemvalue="Python.Main" />
-      <item itemvalue="Python.Test" />
-      <item itemvalue="Python.Learner" />
-      <item itemvalue="Python.Actor" />
-      <item itemvalue="Python.plot" />
-      <item itemvalue="Python.Simulation" />
+      <item itemvalue="Python.pendulum" />
+      <item itemvalue="Python.blackjack" />
+      <item itemvalue="Python.discrete" />
+      <item itemvalue="Python.guessing_game" />
+      <item itemvalue="Python.cube_crash" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.plot" />
-        <item itemvalue="Python.Learner" />
-        <item itemvalue="Python.Simulation" />
-        <item itemvalue="Python.Test" />
-        <item itemvalue="Python.Actor" />
+        <item itemvalue="Python.cube_crash" />
+        <item itemvalue="Python.guessing_game" />
+        <item itemvalue="Python.discrete" />
+        <item itemvalue="Python.blackjack" />
+        <item itemvalue="Python.pendulum" />
       </list>
     </recent_temporary>
   </component>
@@ -233,6 +368,14 @@
       <workItem from="1568184322684" duration="5464000" />
       <workItem from="1568199835106" duration="113000" />
       <workItem from="1568199960524" duration="219000" />
+      <workItem from="1568200957463" duration="2419000" />
+      <workItem from="1568206833551" duration="9000" />
+      <workItem from="1568207002422" duration="232000" />
+      <workItem from="1568207270999" duration="40000" />
+      <workItem from="1568207323481" duration="4000" />
+      <workItem from="1568207335799" duration="3000" />
+      <workItem from="1568207464149" duration="241000" />
+      <workItem from="1568208085051" duration="494000" />
     </task>
     <servers />
   </component>
@@ -258,8 +401,21 @@
     </ignored-roots>
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/apex_sac_20190907$Main.coverage" NAME="Main Coverage Results" MODIFIED="1568187732797" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/apex_sac_20190907$pendulum.coverage" NAME="pendulum Coverage Results" MODIFIED="1568203099908" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/Software/anaconda3/envs/pytorch/lib/python3.7/site-packages/gym/envs/classic_control" />
+    <SUITE FILE_PATH="coverage/apex_sac_20190907$Main.coverage" NAME="Main Coverage Results" MODIFIED="1568208415057" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/apex_sac_20190907$blackjack.coverage" NAME="blackjack Coverage Results" MODIFIED="1568203182665" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/Software/anaconda3/envs/pytorch/lib/python3.7/site-packages/gym/envs/toy_text" />
+    <SUITE FILE_PATH="coverage/apex_sac_20190907$acrobot.coverage" NAME="acrobot Coverage Results" MODIFIED="1568203075386" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/Software/anaconda3/envs/pytorch/lib/python3.7/site-packages/gym/envs/classic_control" />
+    <SUITE FILE_PATH="coverage/apex_sac_20190907$mountain_car.coverage" NAME="mountain_car Coverage Results" MODIFIED="1568203094047" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/Software/anaconda3/envs/pytorch/lib/python3.7/site-packages/gym/envs/classic_control" />
+    <SUITE FILE_PATH="coverage/apex_sac_20190907$continuous_mountain_car.coverage" NAME="continuous_mountain_car Coverage Results" MODIFIED="1568203088071" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/Software/anaconda3/envs/pytorch/lib/python3.7/site-packages/gym/envs/classic_control" />
+    <SUITE FILE_PATH="coverage/apex_sac_20190907$discrete.coverage" NAME="discrete Coverage Results" MODIFIED="1568203187548" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/Software/anaconda3/envs/pytorch/lib/python3.7/site-packages/gym/envs/toy_text" />
+    <SUITE FILE_PATH="coverage/apex_sac_20190907$guessing_game.coverage" NAME="guessing_game Coverage Results" MODIFIED="1568203191779" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/Software/anaconda3/envs/pytorch/lib/python3.7/site-packages/gym/envs/toy_text" />
+    <SUITE FILE_PATH="coverage/apex_sac_20190907$cartpole.coverage" NAME="cartpole Coverage Results" MODIFIED="1568203080778" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/Software/anaconda3/envs/pytorch/lib/python3.7/site-packages/gym/envs/classic_control" />
+    <SUITE FILE_PATH="coverage/apex_sac_20190907$bipedal_walker.coverage" NAME="bipedal_walker Coverage Results" MODIFIED="1568202933498" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/Software/anaconda3/envs/pytorch/lib/python3.7/site-packages/gym/envs/box2d" />
+    <SUITE FILE_PATH="coverage/apex_sac_20190907$car_dynamics.coverage" NAME="car_dynamics Coverage Results" MODIFIED="1568202947785" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/Software/anaconda3/envs/pytorch/lib/python3.7/site-packages/gym/envs/box2d" />
+    <SUITE FILE_PATH="coverage/apex_sac_20190907$car_racing.coverage" NAME="car_racing Coverage Results" MODIFIED="1568202963516" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/Software/anaconda3/envs/pytorch/lib/python3.7/site-packages/gym/envs/box2d" />
     <SUITE FILE_PATH="coverage/apex_sac_20190907$plot.coverage" NAME="plot Coverage Results" MODIFIED="1568187257222" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/apex_sac_20190907$cube_crash.coverage" NAME="cube_crash Coverage Results" MODIFIED="1568207469047" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/Software/anaconda3/envs/pytorch/lib/python3.7/site-packages/gym/envs/unittest" />
+    <SUITE FILE_PATH="coverage/apex_sac_20190907$lunar_lander.coverage" NAME="lunar_lander Coverage Results" MODIFIED="1568203035576" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/Software/anaconda3/envs/pytorch/lib/python3.7/site-packages/gym/envs/box2d" />
   </component>
   <component name="masterDetails">
     <states>

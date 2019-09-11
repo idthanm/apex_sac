@@ -24,6 +24,7 @@ class Simulation():
         self.load_index = 20000
 
 
+
         self.actor = PolicyNet(args.state_dim, args.num_hidden_cell, args.action_high, args.action_low,args.NN_type).to(self.device)
         self.actor.load_state_dict(torch.load('./data/method_' + str(1) + '/model/policy_' + str(self.load_index) + '.pkl'))
 
