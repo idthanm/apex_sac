@@ -97,7 +97,7 @@ class Learner():
         self.args =args
 
 
-        self.cuda_avail = False  # torch.cuda.is_available()
+        self.cuda_avail = torch.cuda.is_available()
         self.device = torch.device("cuda" if self.cuda_avail else "cpu")
 
         if self.args.alpha == 'auto':

@@ -1,126 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c12dd57f-428e-4f5c-b65c-b7f7dbae700c" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/data/method_0/model/Q1_0.pkl" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/method_0/model/Q1_10000.pkl" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/method_0/model/Q1_20000.pkl" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/method_0/model/policy_10000.pkl" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/method_0/model/policy_20000.pkl" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/method_0/result/iteration.npy" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/method_0/result/reward.npy" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/method_1/model/Q1_0.pkl" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/method_1/model/Q1_10000.pkl" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/method_1/model/Q1_20000.pkl" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/method_1/model/Q2_0.pkl" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/method_1/model/Q2_10000.pkl" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/method_1/model/Q2_20000.pkl" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/method_1/model/policy_0.pkl" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/method_1/model/policy_1000.pkl" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/method_1/model/policy_10000.pkl" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/method_1/model/policy_2000.pkl" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/method_1/model/policy_20000.pkl" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/method_1/model/policy_3000.pkl" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/method_1/model/policy_4000.pkl" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/method_1/result/iteration.npy" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/method_1/result/reward.npy" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/method_2/model/Q1_0.pkl" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/method_2/model/Q1_10000.pkl" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/method_2/model/Q1_100000.pkl" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/method_2/model/Q1_110000.pkl" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/method_2/model/Q1_120000.pkl" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/method_2/model/Q1_130000.pkl" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/method_2/model/Q1_140000.pkl" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/method_2/model/Q1_150000.pkl" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/method_2/model/Q1_160000.pkl" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/method_2/model/Q1_170000.pkl" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/method_2/model/Q1_180000.pkl" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/method_2/model/Q1_190000.pkl" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/method_2/model/Q1_20000.pkl" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/method_2/model/Q1_200000.pkl" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/method_2/model/Q1_210000.pkl" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/method_2/model/Q1_220000.pkl" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/method_2/model/Q1_230000.pkl" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/method_2/model/Q1_240000.pkl" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/method_2/model/Q1_250000.pkl" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/method_2/model/Q1_260000.pkl" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/method_2/model/Q1_270000.pkl" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/method_2/model/Q1_280000.pkl" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/method_2/model/Q1_290000.pkl" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/method_2/model/Q1_30000.pkl" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/method_2/model/Q1_300000.pkl" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/method_2/model/Q1_310000.pkl" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/method_2/model/Q1_320000.pkl" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/method_2/model/Q1_330000.pkl" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/method_2/model/Q1_340000.pkl" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/method_2/model/Q1_350000.pkl" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/method_2/model/Q1_360000.pkl" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/method_2/model/Q1_370000.pkl" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/method_2/model/Q1_380000.pkl" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/method_2/model/Q1_390000.pkl" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/method_2/model/Q1_40000.pkl" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/method_2/model/Q1_400000.pkl" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/method_2/model/Q1_410000.pkl" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/method_2/model/Q1_420000.pkl" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/method_2/model/Q1_430000.pkl" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/method_2/model/Q1_50000.pkl" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/method_2/model/Q1_60000.pkl" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/method_2/model/Q1_70000.pkl" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/method_2/model/Q1_80000.pkl" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/method_2/model/Q1_90000.pkl" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/method_2/model/policy_0.pkl" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/method_2/model/policy_1000.pkl" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/method_2/model/policy_10000.pkl" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/method_2/model/policy_100000.pkl" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/method_2/model/policy_110000.pkl" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/method_2/model/policy_120000.pkl" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/method_2/model/policy_130000.pkl" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/method_2/model/policy_140000.pkl" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/method_2/model/policy_150000.pkl" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/method_2/model/policy_160000.pkl" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/method_2/model/policy_170000.pkl" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/method_2/model/policy_180000.pkl" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/method_2/model/policy_190000.pkl" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/method_2/model/policy_2000.pkl" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/method_2/model/policy_20000.pkl" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/method_2/model/policy_200000.pkl" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/method_2/model/policy_210000.pkl" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/method_2/model/policy_220000.pkl" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/method_2/model/policy_230000.pkl" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/method_2/model/policy_240000.pkl" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/method_2/model/policy_250000.pkl" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/method_2/model/policy_260000.pkl" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/method_2/model/policy_270000.pkl" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/method_2/model/policy_280000.pkl" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/method_2/model/policy_290000.pkl" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/method_2/model/policy_3000.pkl" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/method_2/model/policy_30000.pkl" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/method_2/model/policy_300000.pkl" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/method_2/model/policy_310000.pkl" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/method_2/model/policy_320000.pkl" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/method_2/model/policy_330000.pkl" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/method_2/model/policy_340000.pkl" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/method_2/model/policy_350000.pkl" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/method_2/model/policy_360000.pkl" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/method_2/model/policy_370000.pkl" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/method_2/model/policy_380000.pkl" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/method_2/model/policy_390000.pkl" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/method_2/model/policy_4000.pkl" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/method_2/model/policy_40000.pkl" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/method_2/model/policy_400000.pkl" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/method_2/model/policy_410000.pkl" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/method_2/model/policy_420000.pkl" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/method_2/model/policy_430000.pkl" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/method_2/model/policy_50000.pkl" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/method_2/model/policy_60000.pkl" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/method_2/model/policy_70000.pkl" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/method_2/model/policy_80000.pkl" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/method_2/model/policy_90000.pkl" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/method_2/result/iteration.npy" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/method_2/result/reward.npy" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+    <list default="true" id="c12dd57f-428e-4f5c-b65c-b7f7dbae700c" name="Default" comment="init">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Simulation.py" beforeDir="false" afterPath="$PROJECT_DIR$/Simulation.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Model.py" beforeDir="false" afterPath="$PROJECT_DIR$/Model.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/method_2/model/Q1_0.pkl" beforeDir="false" afterPath="$PROJECT_DIR$/data/method_2/model/Q1_0.pkl" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/method_2/model/policy_0.pkl" beforeDir="false" afterPath="$PROJECT_DIR$/data/method_2/model/policy_0.pkl" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -375,8 +260,16 @@
       <workItem from="1568207323481" duration="4000" />
       <workItem from="1568207335799" duration="3000" />
       <workItem from="1568207464149" duration="241000" />
-      <workItem from="1568208085051" duration="494000" />
+      <workItem from="1568208085051" duration="758000" />
     </task>
+    <task id="LOCAL-00001" summary="init">
+      <created>1568208669934</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1568208669934</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -399,10 +292,12 @@
     <ignored-roots>
       <path value="$PROJECT_DIR$/.." />
     </ignored-roots>
+    <MESSAGE value="init" />
+    <option name="LAST_COMMIT_MESSAGE" value="init" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/apex_sac_20190907$pendulum.coverage" NAME="pendulum Coverage Results" MODIFIED="1568203099908" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/Software/anaconda3/envs/pytorch/lib/python3.7/site-packages/gym/envs/classic_control" />
-    <SUITE FILE_PATH="coverage/apex_sac_20190907$Main.coverage" NAME="Main Coverage Results" MODIFIED="1568208415057" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/apex_sac_20190907$Main.coverage" NAME="Main Coverage Results" MODIFIED="1568208871915" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/apex_sac_20190907$blackjack.coverage" NAME="blackjack Coverage Results" MODIFIED="1568203182665" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/Software/anaconda3/envs/pytorch/lib/python3.7/site-packages/gym/envs/toy_text" />
     <SUITE FILE_PATH="coverage/apex_sac_20190907$acrobot.coverage" NAME="acrobot Coverage Results" MODIFIED="1568203075386" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/Software/anaconda3/envs/pytorch/lib/python3.7/site-packages/gym/envs/classic_control" />
     <SUITE FILE_PATH="coverage/apex_sac_20190907$mountain_car.coverage" NAME="mountain_car Coverage Results" MODIFIED="1568203094047" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/Software/anaconda3/envs/pytorch/lib/python3.7/site-packages/gym/envs/classic_control" />

@@ -8,7 +8,7 @@ from torch.distributions import Normal
 import math
 
 
-cuda_avail = False  # torch.cuda.is_available()
+cuda_avail = torch.cuda.is_available()
 device = torch.device("cuda" if cuda_avail else "cpu")
 class QNet(nn.Module):
     def __init__(self, num_states, num_action, num_hidden_cell, NN_type,log_std_min=-20, log_std_max=4):
