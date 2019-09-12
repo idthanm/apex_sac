@@ -35,7 +35,7 @@ def built_parser(method):
     parser.add_argument('--batch_size', type=int, default=128)
     parser.add_argument('--num_hidden_cell', type=int, default=256)
     parser.add_argument('--tau', type=float, default=0.005)
-    parser.add_argument("--env_name", default="Walker2d-v3")
+    parser.add_argument("--env_name", default="Walker2d-v3")  # "Walker2d-v3"
     #MountainCarContinuous-v0 BipedalWalkerHardcore-v2 Pendulum-v0   LunarLanderContinuous-v2  BipedalWalker-v2  CarRacing-v0
     parser.add_argument('--seed', type=int, default=1, help='random seed (default: 1)')
     parser.add_argument('--state_dim', dest='list', type=int, default=[])
@@ -116,7 +116,9 @@ def main(method):
     elif args.explore_method == "parallel":
         num_actors = num_cpu - 2
 
-    args.data_queue_size = num_actors * 5
+    num_actors = 32
+
+    args.data_queue_size = 50
     args.param_queue_size = 10#(num_actors+1) * 3
 
     experience_queue = Queue(maxsize=args.data_queue_size)
