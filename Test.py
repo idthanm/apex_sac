@@ -59,6 +59,7 @@ class Test():
             for i in range(self.args.max_step):
                 self.state, self.reward, self.done, self.load_action = self.env.step(self.u)
                 if step%10000 >=0 and step%10000 <=9999:
+                    epoch_reward += self.reward / self.epoch_length
                     self.env.render(mode='human')
                 state_tensor = torch.FloatTensor(self.state.copy()).float().to(self.device)
                 if self.args.NN_type == "CNN":

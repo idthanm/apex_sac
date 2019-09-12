@@ -3,9 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="c12dd57f-428e-4f5c-b65c-b7f7dbae700c" name="Default" comment="init">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Model.py" beforeDir="false" afterPath="$PROJECT_DIR$/Model.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/method_2/model/Q1_0.pkl" beforeDir="false" afterPath="$PROJECT_DIR$/data/method_2/model/Q1_0.pkl" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/method_2/model/policy_0.pkl" beforeDir="false" afterPath="$PROJECT_DIR$/data/method_2/model/policy_0.pkl" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Test.py" beforeDir="false" afterPath="$PROJECT_DIR$/Test.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -260,7 +258,8 @@
       <workItem from="1568207323481" duration="4000" />
       <workItem from="1568207335799" duration="3000" />
       <workItem from="1568207464149" duration="241000" />
-      <workItem from="1568208085051" duration="758000" />
+      <workItem from="1568208085051" duration="1445000" />
+      <workItem from="1568266085671" duration="96000" />
     </task>
     <task id="LOCAL-00001" summary="init">
       <created>1568208669934</created>
@@ -269,7 +268,14 @@
       <option name="project" value="LOCAL" />
       <updated>1568208669934</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="init">
+      <created>1568208913790</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1568208913790</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
