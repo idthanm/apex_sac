@@ -35,7 +35,7 @@ def built_parser(method):
     parser.add_argument('--batch_size', type=int, default=128)
     parser.add_argument('--num_hidden_cell', type=int, default=256)
     parser.add_argument('--tau', type=float, default=0.005)
-    parser.add_argument("--env_name", default="Walker2d-v2")
+    parser.add_argument("--env_name", default="Walker2d-v3")
     #MountainCarContinuous-v0 BipedalWalkerHardcore-v2 Pendulum-v0   LunarLanderContinuous-v2  BipedalWalker-v2  CarRacing-v0
     parser.add_argument('--seed', type=int, default=1, help='random seed (default: 1)')
     parser.add_argument('--state_dim', dest='list', type=int, default=[])
@@ -55,7 +55,7 @@ def built_parser(method):
     parser.add_argument("--syn_tau", type=float, default=0.005)
     parser.add_argument('--priority_slice_size', type=int, default=5000)
     parser.add_argument("--method", type=int, default=method)
-    parser.add_argument("--max_train", type=int, default=20000)
+    parser.add_argument("--max_train", type=int, default=1000000)
 
     parser.add_argument("--explore_method", default="parallel")  # "single" or "parallel"
     parser.add_argument("--sample_method", default="random")  # "random or priority"
