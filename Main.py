@@ -147,7 +147,7 @@ def main(method):
 if __name__ == '__main__':
     #os.environ["CUDA_VISIBLE_DEVICES"] = "-1"
     os.environ["OMP_NUM_THREADS"] = "1"
-    main(2)
+    main(1)
 
 
 
